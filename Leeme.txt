@@ -1,0 +1,4 @@
+1- EL proyecto Asp.net tiene un archivo de texto donde puede cambiar la cadena de conexion Readme.txt donde
+especifica como actualizar el Scaffold-DbContext  debido al que proyecto se usaronn paquetes nuget de Microsoft.EntityFrameworCore.
+
+2- En el archivo .rar encontrar la base de datos llamada BDGestores.bak que deberá restaurar para dicho proceso de prueba.
